@@ -1,0 +1,19 @@
+h1, p, input {
+    font-family: 'Roboto Slab', serif;
+}
+
+#SpeechContainer {
+    margin: 30px
+}
+
+#SubmitButton {
+    background-color: #0191FE;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 30px;
+}
+
+#SubmitButton:hover {
+    cursor: pointer;
+}
